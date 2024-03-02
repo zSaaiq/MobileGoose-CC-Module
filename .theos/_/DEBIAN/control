@@ -1,0 +1,10 @@
+Package: com.captinc.mobilegoosemodule
+Name: MobileGooseModule
+Depends: firmware (>=15.0), mobilesubstrate, com.opa334.ccsupport, com.pixelomer.mobilegoose
+Author: Capt Inc, zsaaiq <kevin.felix90@gmx.de>
+Maintainer: zsaaiq <kevin.felix90@gmx.de>
+Section: Tweaks
+Description: Control Center module to toggle MobileGoose on/off
+Architecture: iphoneos-arm64
+Version: 1.0.3-3+debug
+Installed-Size: 196

@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kevinmuller/Desktop/MobileGooseModule/.theos/obj/debug/arm64/MobileGooseModule.bundle/MobileGooseModule'
+relocations:
+  - { offsetInCU: 0x1E, offset: 0x1E, size: 0x8, addend: 0x0, symName: '-[MobileGooseModule iconGlyph]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x94 }
+  - { offsetInCU: 0x1A96, offset: 0x1A96, size: 0x8, addend: 0x0, symName: '-[MobileGooseModule iconGlyph]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x94 }
+  - { offsetInCU: 0x1ACC, offset: 0x1ACC, size: 0x8, addend: 0x0, symName: '-[MobileGooseModule selectedColor]', symObjAddr: 0x94, symBinAddr: 0x4094, symSize: 0x4C }
+  - { offsetInCU: 0x1B02, offset: 0x1B02, size: 0x8, addend: 0x0, symName: '-[MobileGooseModule isSelected]', symObjAddr: 0xE0, symBinAddr: 0x40E0, symSize: 0x48 }
+  - { offsetInCU: 0x1B46, offset: 0x1B46, size: 0x8, addend: 0x0, symName: '-[MobileGooseModule setSelected:]', symObjAddr: 0x128, symBinAddr: 0x4128, symSize: 0xC4 }
+...
