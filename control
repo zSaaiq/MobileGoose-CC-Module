@@ -7,3 +7,4 @@ Maintainer: zsaaiq <kevin.felix90@gmx.de>
 Section: Tweaks
 Architecture: iphoneos-arm64
 Description: Control Center module to toggle MobileGoose on/off
+Icon: https://zsaaiq.github.io/jailbreakrepo/images/MobileGooseCCModule.png

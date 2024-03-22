@@ -1,7 +1,9 @@
-THEOS_DEVICE_IP = 192.168.0.198
-ARCHS = arm64 arm64e
-TARGET = iphone:clang:15.6
+THEOS_DEVICE_IP = 192.168.178.116
+FINALPACKAGE = 1
+PREFIX = $(THEOS)/toolchain/Xcode.xctoolchain/usr/bin/
 THEOS_PACKAGE_SCHEME=rootless
+export TARGET = iphone:15.6
+ARCHS = arm64 arm64e
 include $(THEOS)/makefiles/common.mk
 BUNDLE_NAME = MobileGooseModule
 MobileGooseModule_FILES = MobileGooseModule.m
