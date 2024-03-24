@@ -5,6 +5,8 @@ Author: Capt Inc, zsaaiq <kevin.felix90@gmx.de>
 Maintainer: zsaaiq <kevin.felix90@gmx.de>
 Section: Tweaks
 Description: Control Center module to toggle MobileGoose on/off
+Depiction: https://zsaaiq.github.io/jailbreakrepo/depictions/mobilegoose-ccmodule.html
+SileoDepiction: https://zsaaiq.github.io/jailbreakrepo/sileodepictions/mobilegoose-ccmodule.json
 Icon: https://zsaaiq.github.io/jailbreakrepo/images/MobileGooseCCModule.png
 Architecture: iphoneos-arm64
 Version: 1.0.3
